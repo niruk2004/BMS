@@ -1,0 +1,11 @@
+* created a new file named firebase.js in src
+
+
+
+*change in loginform and registerform to add to firestore and auth
+
+
+* change in authpage for handlesubmit
+
+
+*change in client slice to show the values correctly
